@@ -4,7 +4,7 @@
 
 # Tema da Aula
 
-Turma Online 22 - B3 | Back-end | Semana X | 2023 | Professora X
+Turma Online X | X-end | Semana X | 202X | Professora X
 
 ### Instruções
 Antes de começar, vamos organizar nosso setup.
