@@ -4,7 +4,7 @@
 
 # Tema da Aula
 
-Turma Online X | X-end | Semana X | 202X | Professora X
+Turma Online X | Semana X | 202X | Professora X
 
 ### Instruções
 Antes de começar, vamos organizar nosso setup.
